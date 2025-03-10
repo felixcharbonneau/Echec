@@ -144,7 +144,7 @@
         <mxCell id="bfWHNd7wvh4aZTY_7lih-49" value="Roi" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;gradientColor=#604FFF;gradientDirection=radial;" parent="1" vertex="1">
           <mxGeometry x="143" y="450" width="160" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="bfWHNd7wvh4aZTY_7lih-50" value="- aEteEnEchec : bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="bfWHNd7wvh4aZTY_7lih-49" vertex="1">
+        <mxCell id="bfWHNd7wvh4aZTY_7lih-50" value="- peuRoque: bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="bfWHNd7wvh4aZTY_7lih-49" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bfWHNd7wvh4aZTY_7lih-51" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="bfWHNd7wvh4aZTY_7lih-49" vertex="1">
