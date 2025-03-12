@@ -117,7 +117,7 @@
         </mxCell>
         <mxCell id="GvulQhEinVonRZqq1PHL-66" value="Mouvement(xDebut,xFin,yDebut,yFin)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GvulQhEinVonRZqq1PHL-65">
           <mxGeometry x="-0.5177" y="-2" relative="1" as="geometry">
-            <mxPoint x="61" y="-2" as="offset" />
+            <mxPoint x="160" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GvulQhEinVonRZqq1PHL-67" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" edge="1" parent="1" source="GvulQhEinVonRZqq1PHL-55" target="GvulQhEinVonRZqq1PHL-38">
