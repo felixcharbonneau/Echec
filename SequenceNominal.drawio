@@ -310,7 +310,7 @@
         </mxCell>
         <mxCell id="GvulQhEinVonRZqq1PHL-100" value="aColision(mouvement)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GvulQhEinVonRZqq1PHL-99">
           <mxGeometry x="-0.0089" y="-3" relative="1" as="geometry">
-            <mxPoint x="6" y="3" as="offset" />
+            <mxPoint x="16" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GvulQhEinVonRZqq1PHL-138" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;startArrow=open;startFill=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
