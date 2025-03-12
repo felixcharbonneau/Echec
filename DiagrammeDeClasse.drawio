@@ -354,13 +354,13 @@
         <mxCell id="xC2eLMQZM-a3y8VEeQ4d-63" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="xC2eLMQZM-a3y8VEeQ4d-60" vertex="1">
           <mxGeometry y="156" width="300" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="xC2eLMQZM-a3y8VEeQ4d-64" value="+ estDiagonal(byte pente, byte min, byte max)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="xC2eLMQZM-a3y8VEeQ4d-60" vertex="1">
+        <mxCell id="xC2eLMQZM-a3y8VEeQ4d-64" value="+ estDiagonal(byte pente, byte min, byte max) : false" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="xC2eLMQZM-a3y8VEeQ4d-60" vertex="1">
           <mxGeometry y="164" width="300" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="xC2eLMQZM-a3y8VEeQ4d-65" value="+ estVertical(byte min, byte max)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="xC2eLMQZM-a3y8VEeQ4d-60" vertex="1">
+        <mxCell id="xC2eLMQZM-a3y8VEeQ4d-65" value="+ estVertical(byte min, byte max) : false" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="xC2eLMQZM-a3y8VEeQ4d-60" vertex="1">
           <mxGeometry y="190" width="300" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="xC2eLMQZM-a3y8VEeQ4d-66" value="+ estHorizontal(byte min, byte max)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="xC2eLMQZM-a3y8VEeQ4d-60" vertex="1">
+        <mxCell id="xC2eLMQZM-a3y8VEeQ4d-66" value="+ estHorizontal(byte min, byte max) : false" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="xC2eLMQZM-a3y8VEeQ4d-60" vertex="1">
           <mxGeometry y="216" width="300" height="26" as="geometry" />
         </mxCell>
         <mxCell id="xC2eLMQZM-a3y8VEeQ4d-67" value="" style="endArrow=diamondThin;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;entryX=0.485;entryY=1.135;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xC2eLMQZM-a3y8VEeQ4d-60" target="PjiP_6COvvfBb8eljoDA-72" edge="1">
