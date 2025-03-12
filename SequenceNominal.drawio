@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GvulQhEinVonRZqq1PHL-5" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="50" y="380" width="20" height="420" as="geometry" />
+          <mxGeometry x="50" y="380" width="20" height="830" as="geometry" />
         </mxCell>
         <mxCell id="GvulQhEinVonRZqq1PHL-7" value="Joueur" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GvulQhEinVonRZqq1PHL-8" value="FormPartie" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="200" y="380" width="100" height="420" as="geometry" />
+          <mxGeometry x="200" y="380" width="100" height="830" as="geometry" />
         </mxCell>
         <mxCell id="GvulQhEinVonRZqq1PHL-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="GvulQhEinVonRZqq1PHL-8">
-          <mxGeometry x="45" y="80" width="10" height="210" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="300" as="geometry" />
         </mxCell>
         <mxCell id="GvulQhEinVonRZqq1PHL-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="GvulQhEinVonRZqq1PHL-5" target="GvulQhEinVonRZqq1PHL-8">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -31,10 +31,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GvulQhEinVonRZqq1PHL-11" value="Jeu Echec" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="430" y="380" width="100" height="420" as="geometry" />
+          <mxGeometry x="430" y="380" width="100" height="820" as="geometry" />
         </mxCell>
         <mxCell id="GvulQhEinVonRZqq1PHL-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="GvulQhEinVonRZqq1PHL-11">
-          <mxGeometry x="45" y="100" width="10" height="110" as="geometry" />
+          <mxGeometry x="45" y="100" width="10" height="190" as="geometry" />
         </mxCell>
         <mxCell id="GvulQhEinVonRZqq1PHL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;endArrow=open;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -51,7 +51,7 @@
             <mxPoint x="61" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GvulQhEinVonRZqq1PHL-20" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;startArrow=open;startFill=0;fillColor=#f8cecc;strokeColor=#b85450;exitX=0.5;exitY=0.238;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GvulQhEinVonRZqq1PHL-12">
+        <mxCell id="GvulQhEinVonRZqq1PHL-20" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;startArrow=open;startFill=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="GvulQhEinVonRZqq1PHL-12">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="260" y="510" as="sourcePoint" />
             <mxPoint x="250" y="460" as="targetPoint" />
@@ -64,6 +64,27 @@
         <mxCell id="GvulQhEinVonRZqq1PHL-21" value="estDeuxiemeClick()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GvulQhEinVonRZqq1PHL-20">
           <mxGeometry x="-0.0089" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GvulQhEinVonRZqq1PHL-34" value="Modele" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="660" y="380" width="100" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="GvulQhEinVonRZqq1PHL-35" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="GvulQhEinVonRZqq1PHL-34">
+          <mxGeometry x="45" y="170" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GvulQhEinVonRZqq1PHL-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;endArrow=open;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485.5" y="550" as="sourcePoint" />
+            <mxPoint x="710" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610.5" y="550" />
+              <mxPoint x="610.5" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GvulQhEinVonRZqq1PHL-37" value="joueurCoup(xDebut,xFin,yDebut,yFin)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GvulQhEinVonRZqq1PHL-36">
+          <mxGeometry x="-0.5177" y="-2" relative="1" as="geometry">
+            <mxPoint x="61" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
