@@ -506,7 +506,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g28BqwCWcq6KlZtZmIzM-12" value="&lt;span style=&quot;font-size: 12px; text-align: left; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;peuRoque()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g28BqwCWcq6KlZtZmIzM-11">
+        <mxCell id="g28BqwCWcq6KlZtZmIzM-12" value="&lt;span style=&quot;font-size: 12px; text-align: left; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;peuInitierRoque()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g28BqwCWcq6KlZtZmIzM-11">
           <mxGeometry x="-0.5177" y="-2" relative="1" as="geometry">
             <mxPoint x="61" y="-2" as="offset" />
           </mxGeometry>
