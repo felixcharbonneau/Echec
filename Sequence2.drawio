@@ -438,8 +438,8 @@
             <mxPoint x="9" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EnhBGTg6p2PJXciGGI0v-92" value="&lt;div&gt;&lt;font&gt;Sequence2, reine du joueur2(noir) déplacée&lt;/font&gt;&lt;font&gt;&amp;nbsp;sans succès vers une case vide mais avec une colision&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=54;" vertex="1" parent="1">
-          <mxGeometry x="-265" y="2030" width="2410" height="80" as="geometry" />
+        <mxCell id="EnhBGTg6p2PJXciGGI0v-92" value="&lt;div&gt;&lt;font&gt;Scénario alternatif, reine du joueur2(noir) déplacée&lt;/font&gt;&lt;font&gt;&amp;nbsp;sans succès vers une case vide mais avec une colision&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=54;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="2030" width="2570" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EnhBGTg6p2PJXciGGI0v-93" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;startArrow=open;startFill=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
