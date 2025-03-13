@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.1.0">
   <diagram name="Page-1" id="c7MBzF5Fkux2hQArZyj8">
-    <mxGraphModel dx="2739" dy="1009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1624" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -537,6 +537,9 @@
           <mxGeometry x="-0.0089" y="-3" relative="1" as="geometry">
             <mxPoint x="-3" y="5" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="g28BqwCWcq6KlZtZmIzM-19" value="&lt;div&gt;&lt;font&gt;Sequence1, tour deplac&lt;/font&gt;&lt;font style=&quot;font-size: 54px;&quot;&gt;é&lt;/font&gt;&lt;font&gt;e avec succes vers une case vide contenant&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;l&#39;addresse temporaire vers un pion ayant effectu&lt;/font&gt;&lt;font style=&quot;font-size: 54px;&quot;&gt;é&lt;/font&gt;&lt;font&gt; une charge le tour pr&lt;/font&gt;&lt;font style=&quot;font-size: 54px;&quot;&gt;é&lt;/font&gt;&lt;font&gt;cedant&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=54;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="150" width="1910" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
