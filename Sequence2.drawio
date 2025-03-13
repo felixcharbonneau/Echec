@@ -1080,7 +1080,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EnhBGTg6p2PJXciGGI0v-75" value="&quot;possible,echec;tour:Joueur2;plateauSerialisé&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EnhBGTg6p2PJXciGGI0v-74">
+        <mxCell id="EnhBGTg6p2PJXciGGI0v-75" value="&quot;colision&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EnhBGTg6p2PJXciGGI0v-74">
           <mxGeometry x="0.005" y="-2" relative="1" as="geometry">
             <mxPoint x="11" as="offset" />
           </mxGeometry>
@@ -1114,7 +1114,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EnhBGTg6p2PJXciGGI0v-81" value="&quot;possible,echec;tour:Joueur2;plateauSerialisé&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EnhBGTg6p2PJXciGGI0v-80">
+        <mxCell id="EnhBGTg6p2PJXciGGI0v-81" value="&quot;colision&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EnhBGTg6p2PJXciGGI0v-80">
           <mxGeometry x="0.005" y="-2" relative="1" as="geometry">
             <mxPoint x="9" y="2" as="offset" />
           </mxGeometry>
@@ -1128,7 +1128,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EnhBGTg6p2PJXciGGI0v-85" value="&quot;possible,echec;tour:Joueur2;plateauSerialisé&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EnhBGTg6p2PJXciGGI0v-84">
+        <mxCell id="EnhBGTg6p2PJXciGGI0v-85" value="&quot;colision&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EnhBGTg6p2PJXciGGI0v-84">
           <mxGeometry x="0.005" y="-2" relative="1" as="geometry">
             <mxPoint x="4" y="2" as="offset" />
           </mxGeometry>
@@ -1142,7 +1142,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EnhBGTg6p2PJXciGGI0v-87" value="&quot;possible,echec;tour:Joueur2;plateauSerialisé&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EnhBGTg6p2PJXciGGI0v-86">
+        <mxCell id="EnhBGTg6p2PJXciGGI0v-87" value="&quot;colision&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EnhBGTg6p2PJXciGGI0v-86">
           <mxGeometry x="0.005" y="-2" relative="1" as="geometry">
             <mxPoint x="-2" y="2" as="offset" />
           </mxGeometry>
