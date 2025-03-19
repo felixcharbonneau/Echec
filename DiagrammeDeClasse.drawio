@@ -25,7 +25,7 @@
         <mxCell id="bfWHNd7wvh4aZTY_7lih-14" value="- plateauPrecedents : list&amp;lt;Plateau&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="bfWHNd7wvh4aZTY_7lih-13" vertex="1">
           <mxGeometry y="26" width="350" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="xC2eLMQZM-a3y8VEeQ4d-50" value="- mouvements : stack&amp;lt;Mouvement&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="bfWHNd7wvh4aZTY_7lih-13" vertex="1">
+        <mxCell id="xC2eLMQZM-a3y8VEeQ4d-50" value="- mouvements : list&amp;lt;Mouvement&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="bfWHNd7wvh4aZTY_7lih-13" vertex="1">
           <mxGeometry y="52" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="xC2eLMQZM-a3y8VEeQ4d-21" value="- tour : int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="bfWHNd7wvh4aZTY_7lih-13" vertex="1">
@@ -351,7 +351,7 @@
             <mxPoint x="535" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xC2eLMQZM-a3y8VEeQ4d-71" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" target="xC2eLMQZM-a3y8VEeQ4d-60" edge="1" source="OOmmwa30RpbAinicW8sw-7">
+        <mxCell id="xC2eLMQZM-a3y8VEeQ4d-71" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OOmmwa30RpbAinicW8sw-7" target="xC2eLMQZM-a3y8VEeQ4d-60" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="802" y="140" as="sourcePoint" />
             <mxPoint x="585" y="409" as="targetPoint" />
