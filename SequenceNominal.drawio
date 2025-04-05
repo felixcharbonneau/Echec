@@ -406,35 +406,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="65kCvhNt-Vbk-IKcYhDH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;endArrow=open;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="1739" as="sourcePoint" />
-            <mxPoint x="1190" y="1740" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="960" y="1740" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="65kCvhNt-Vbk-IKcYhDH-22" value="Plateau(plateau : Plateau)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="65kCvhNt-Vbk-IKcYhDH-21" vertex="1" connectable="0">
-          <mxGeometry x="-0.5177" y="-2" relative="1" as="geometry">
-            <mxPoint x="72" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="65kCvhNt-Vbk-IKcYhDH-24" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1241" y="1779" as="sourcePoint" />
-            <mxPoint x="960" y="1779" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="65kCvhNt-Vbk-IKcYhDH-28" value="copiePlateau" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="65kCvhNt-Vbk-IKcYhDH-24" vertex="1" connectable="0">
-          <mxGeometry x="0.0203" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mGFAoO48vy-DQkb1roky-1" value="Plateau" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1191" y="1729" width="100" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="GvulQhEinVonRZqq1PHL-99" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;startArrow=open;startFill=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1241" y="1099" as="sourcePoint" />
