@@ -86,6 +86,16 @@
             <mxPoint x="426" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WXTV3Mn7f3rtUq6KaUBK-75" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="WXTV3Mn7f3rtUq6KaUBK-23">
+          <mxGeometry x="-0.4866" y="1" relative="1" as="geometry">
+            <mxPoint x="5" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WXTV3Mn7f3rtUq6KaUBK-76" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="WXTV3Mn7f3rtUq6KaUBK-23">
+          <mxGeometry x="0.5178" y="-1" relative="1" as="geometry">
+            <mxPoint x="8" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WXTV3Mn7f3rtUq6KaUBK-27" value="Modele" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#76608a;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="550" y="150" width="140" height="86" as="geometry" />
         </mxCell>
