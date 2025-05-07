@@ -586,7 +586,7 @@
         </mxCell>
         <mxCell id="maukN36tXcJNzbH-KZ2X-90" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="maukN36tXcJNzbH-KZ2X-88">
           <mxGeometry x="0.5638" y="2" relative="1" as="geometry">
-            <mxPoint x="-98" y="18" as="offset" />
+            <mxPoint x="-124" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
