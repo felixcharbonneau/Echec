@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.14">
   <diagram name="Page-1" id="G4jUNvh0E0kJYvAfDZpT">
-    <mxGraphModel dx="1233" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1169" dy="1771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,7 +250,7 @@
         <mxCell id="maukN36tXcJNzbH-KZ2X-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="WXTV3Mn7f3rtUq6KaUBK-50">
           <mxGeometry y="130" width="170" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="maukN36tXcJNzbH-KZ2X-4" value="+ ajoutAeronef(int aeroportId, string nom, TypeAvion type, int vitesse, int tempsEmbarquement, int tempsDebarquement, int TempsEntretien, int capacite)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WXTV3Mn7f3rtUq6KaUBK-50">
+        <mxCell id="maukN36tXcJNzbH-KZ2X-4" value="+ ajoutAeronef(string nom, TypeAvion type, int vitesse, int tempsEmbarquement, int tempsDebarquement, int TempsEntretien, int capacite)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WXTV3Mn7f3rtUq6KaUBK-50">
           <mxGeometry y="138" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="maukN36tXcJNzbH-KZ2X-16" value="+ modifierAeronef(int id, string nom, TypeAvion type, int vitesse, int tempsEmbarquement, int tempsDebarquement, int TempsEntretien, int capacite)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WXTV3Mn7f3rtUq6KaUBK-50">
@@ -472,7 +472,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="maukN36tXcJNzbH-KZ2X-21" value="AeronefFactory" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f5f5f5;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="830" y="-60" width="220" height="164" as="geometry" />
+          <mxGeometry x="830" y="-260" width="220" height="370" as="geometry" />
         </mxCell>
         <mxCell id="maukN36tXcJNzbH-KZ2X-28" value="+ instance: AeronefFactory" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="maukN36tXcJNzbH-KZ2X-21">
           <mxGeometry y="26" width="220" height="26" as="geometry" />
@@ -483,14 +483,49 @@
         <mxCell id="maukN36tXcJNzbH-KZ2X-29" value="+ getInstance() : AeronefFactory" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="maukN36tXcJNzbH-KZ2X-21">
           <mxGeometry y="60" width="220" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="maukN36tXcJNzbH-KZ2X-22" value="+ creerAvionPassager() : Avion" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="maukN36tXcJNzbH-KZ2X-21">
-          <mxGeometry y="86" width="220" height="26" as="geometry" />
+        <mxCell id="maukN36tXcJNzbH-KZ2X-22" value="+ creerAvionPassager(string nom, int vitesse, int tempsEmbarquement, int tempsDebarquement, int TempsEntretien, int capacite) : Aeronef" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="maukN36tXcJNzbH-KZ2X-21">
+          <mxGeometry y="86" width="220" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="maukN36tXcJNzbH-KZ2X-25" value="+ creerAvionCargaison() : Avion" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="maukN36tXcJNzbH-KZ2X-21">
-          <mxGeometry y="112" width="220" height="26" as="geometry" />
+        <mxCell id="maukN36tXcJNzbH-KZ2X-25" value="+ creerAvionCargaison(string nom, int vitesse, int tempsEmbarquement, int tempsDebarquement, int TempsEntretien, int capacite) : Aeronef" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="maukN36tXcJNzbH-KZ2X-21">
+          <mxGeometry y="160" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="maukN36tXcJNzbH-KZ2X-26" value="+ creerAvionSecours() : Avion" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="maukN36tXcJNzbH-KZ2X-21">
-          <mxGeometry y="138" width="220" height="26" as="geometry" />
+        <mxCell id="maukN36tXcJNzbH-KZ2X-26" value="+ creerAvionSecours(string nom, int vitesse, int tempsEmbarquement, int tempsDebarquement, int TempsEntretien, int capacite) : Aeronef" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="maukN36tXcJNzbH-KZ2X-21">
+          <mxGeometry y="230" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="maukN36tXcJNzbH-KZ2X-30" value="+ creerAvionCiterne(string nom, int vitesse, int tempsEmbarquement, int tempsDebarquement, int TempsEntretien, int capacite) : Aeronef" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="maukN36tXcJNzbH-KZ2X-21">
+          <mxGeometry y="300" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="maukN36tXcJNzbH-KZ2X-31" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.458;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WXTV3Mn7f3rtUq6KaUBK-50" target="maukN36tXcJNzbH-KZ2X-30">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1100" y="100" as="sourcePoint" />
+            <mxPoint x="1260" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="maukN36tXcJNzbH-KZ2X-32" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="maukN36tXcJNzbH-KZ2X-31">
+          <mxGeometry x="-0.2625" y="3" relative="1" as="geometry">
+            <mxPoint x="-7" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="maukN36tXcJNzbH-KZ2X-33" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="maukN36tXcJNzbH-KZ2X-31">
+          <mxGeometry x="0.1016" relative="1" as="geometry">
+            <mxPoint x="-10" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="maukN36tXcJNzbH-KZ2X-34" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="maukN36tXcJNzbH-KZ2X-25" target="WXTV3Mn7f3rtUq6KaUBK-37">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1140" y="-50" as="sourcePoint" />
+            <mxPoint x="1300" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="maukN36tXcJNzbH-KZ2X-36" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="maukN36tXcJNzbH-KZ2X-34">
+          <mxGeometry x="-0.3573" relative="1" as="geometry">
+            <mxPoint x="-110" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="maukN36tXcJNzbH-KZ2X-37" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="maukN36tXcJNzbH-KZ2X-34">
+          <mxGeometry x="0.7928" y="1" relative="1" as="geometry">
+            <mxPoint x="-11" y="25" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
