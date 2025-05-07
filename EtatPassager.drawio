@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qm3uMAphaem3InAArTcg-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="30" y="349" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="349" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qm3uMAphaem3InAArTcg-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="qm3uMAphaem3InAArTcg-3">
           <mxGeometry width="80" height="80" as="geometry" />
@@ -45,7 +45,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qm3uMAphaem3InAArTcg-7" value="Débarquement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="930" y="359" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="359" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qm3uMAphaem3InAArTcg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="qm3uMAphaem3InAArTcg-8" target="qm3uMAphaem3InAArTcg-4">
           <mxGeometry relative="1" as="geometry">
@@ -112,7 +112,7 @@
           <mxGeometry x="545" y="460" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qm3uMAphaem3InAArTcg-28" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="30" y="540" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="540" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qm3uMAphaem3InAArTcg-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="qm3uMAphaem3InAArTcg-28">
           <mxGeometry width="80" height="80" as="geometry" />
@@ -209,7 +209,7 @@
           <mxGeometry x="511.77" y="650" width="470" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qm3uMAphaem3InAArTcg-75" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="50" y="730" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qm3uMAphaem3InAArTcg-76" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="qm3uMAphaem3InAArTcg-75">
           <mxGeometry width="80" height="80" as="geometry" />
