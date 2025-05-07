@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.14">
   <diagram name="Page-1" id="G4jUNvh0E0kJYvAfDZpT">
-    <mxGraphModel dx="1528" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,7 +201,7 @@
           <mxGeometry y="130" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="WXTV3Mn7f3rtUq6KaUBK-50" value="Aeroport" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="845" y="155" width="170" height="230" as="geometry">
+          <mxGeometry x="845" y="155" width="170" height="238" as="geometry">
             <mxRectangle x="770" y="146" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -217,8 +217,11 @@
         <mxCell id="WXTV3Mn7f3rtUq6KaUBK-135" value="- achalandageCargaison: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="WXTV3Mn7f3rtUq6KaUBK-50" vertex="1">
           <mxGeometry y="104" width="170" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="maukN36tXcJNzbH-KZ2X-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="WXTV3Mn7f3rtUq6KaUBK-50">
+          <mxGeometry y="130" width="170" height="8" as="geometry" />
+        </mxCell>
         <mxCell id="maukN36tXcJNzbH-KZ2X-4" value="+ ajoutAeronef(int aeroportId, string nom, TypeAvion type, int vitesse, int tempsEmbarquement, int tempsDebarquement, int TempsEntretien, int capacite)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WXTV3Mn7f3rtUq6KaUBK-50">
-          <mxGeometry y="130" width="170" height="100" as="geometry" />
+          <mxGeometry y="138" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WXTV3Mn7f3rtUq6KaUBK-54" value="Position" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="860" y="520" width="140" height="164" as="geometry" />
